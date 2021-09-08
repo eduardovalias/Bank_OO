@@ -1,0 +1,16 @@
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\bin\Debug\net5.0\myBank.exe
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\bin\Debug\net5.0\myBank.deps.json
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\bin\Debug\net5.0\myBank.runtimeconfig.json
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\bin\Debug\net5.0\myBank.runtimeconfig.dev.json
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\bin\Debug\net5.0\myBank.dll
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\bin\Debug\net5.0\ref\myBank.dll
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\bin\Debug\net5.0\myBank.pdb
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\obj\Debug\net5.0\myBank.csproj.AssemblyReference.cache
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\obj\Debug\net5.0\myBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\obj\Debug\net5.0\myBank.AssemblyInfoInputs.cache
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\obj\Debug\net5.0\myBank.AssemblyInfo.cs
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\obj\Debug\net5.0\myBank.csproj.CoreCompileInputs.cache
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\obj\Debug\net5.0\myBank.dll
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\obj\Debug\net5.0\ref\myBank.dll
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\obj\Debug\net5.0\myBank.pdb
+C:\Users\edupv\Documents\ETEFMC\LingPro\Bank_OO\myBank\obj\Debug\net5.0\myBank.genruntimeconfig.cache
