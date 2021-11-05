@@ -68,6 +68,8 @@ namespace myBank
             "\nConta 3: " + contaDoSus.Titular);
 
             Console.WriteLine("\nO número de contas criadas é: " + ContaCorrente.TotaldeContasCriadas);
+
+            Console.WriteLine("\nLink do repo: https://github.com/eduardovalias/Bank_OO.git");
         }
     }
 }
